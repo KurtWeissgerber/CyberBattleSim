@@ -12,6 +12,7 @@
 #     language: python
 #     name: python3
 # ---
+#export PYTHONPATH=$PYTHONPATH:/root/cyberbattle
 
 # %%
 # %% [markdown] magic_args="[markdown]"
